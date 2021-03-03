@@ -1,0 +1,15 @@
+{
+  "name": "1_inheritance",
+  "version": "1.0.0",
+  "description": "- Give a short introduction to inheritance (~3min)\r   - You select the language\r   - Basic usage example\r   - How does it work (e.g. JS Prototype inheritance is different from Java)",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx tsc basic.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
